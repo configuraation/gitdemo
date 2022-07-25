@@ -3,3 +3,7 @@ bbb
 ccc
 ddd
 eee
+<<<<<<< HEAD
+=======
+fff
+>>>>>>> 890030a... 修改了hello.txt
